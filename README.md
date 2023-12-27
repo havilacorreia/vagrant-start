@@ -21,4 +21,5 @@ Comando na maquina física
  vagrant init ubuntu/focal64 (Gera um arquivo VagrantFile)
  vagrant up (Lê o arquivo e executa os comandos)
  vagrant ssh (para acessar a Maquina Virtual)
+ vagrant reload (ler novamente o arquivo Vagrantfile e vai replicar as alterações)
  vagrant destroy
