@@ -3,10 +3,10 @@
 
  Criar infraestrutura virtuais através de IaC - Infraestrutura como código
 
- O Vagrant só é possivel instalar na maquina fisica.
+ O **Vagrant** só é possivel instalar na maquina fisica.
 
  VagrantFile
- -SO
+ - SO
  - Memória
  - CPU
  - Disco
